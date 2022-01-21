@@ -1,0 +1,71 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+}
+
+.challenge {
+  width: 80%;
+  height: 50%;
+  margin: 9% 7%;
+  display: flex;
+  flex-direction: row;
+  border-radius: 20%;
+}
+
+span {
+  color: hsl(277, 64%, 61%);
+  font-family: "Inter", sans-serif;
+  font-size: 1.5rem;
+}
+h2 {
+  color: hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
+  font-size: 1.5rem;
+}
+
+h5 {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: "Inter", sans-serif;
+  padding-top: 0%;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.6);
+  font-size: 15px;
+  font-family: "Inter", sans-serif;
+}
+
+.no-img {
+  padding: 7% 10% 7% 8%;
+  background-color: hsl(244, 38%, 16%);
+  width: 35%;
+}
+
+.extra {
+  display: flex;
+  flex-direction: row;
+}
+
+.img {
+  background-color: purple;
+}
+.image {
+  opacity: 0.3;
+  width: 100%;
+  height: 100%;
+}
+.one {
+  margin: 3% 2%;
+  padding: 0;
+}
+
+.two {
+  margin: 3%;
+}
+
+.three {
+  margin: 3%;
+}
+
+img {
+  height: 100%;
+}
